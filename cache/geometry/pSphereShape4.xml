@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<Autodesk_Cache_File>
+  <cacheType Type="OneFilePerFrame" Format="mcc"/>
+  <time Range="250-87500"/>
+  <cacheTimePerFrame TimePerFrame="250"/>
+  <cacheVersion Version="2.0"/>
+  <extra>/mnt/shows/users/tom.oconnor/HillScene/renderScenes/colouredballs.ma</extra>
+  <extra>maya 2012 x64</extra>
+  <extra>tom.oconnor</extra>
+  <Channels>
+    <channel0 ChannelName="pSphereShape4" ChannelType="FloatVectorArray" ChannelInterpretation="positions" SamplingType="Regular" SamplingRate="250" StartTime="250" EndTime="87500"/>
+  </Channels>
+</Autodesk_Cache_File>

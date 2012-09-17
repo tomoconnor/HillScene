@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<Autodesk_Cache_File>
+  <cacheType Type="OneFilePerFrame" Format="mcc"/>
+  <time Range="250-87500"/>
+  <cacheTimePerFrame TimePerFrame="250"/>
+  <cacheVersion Version="2.0"/>
+  <extra>/mnt/shows/users/tom.oconnor/HillScene/renderScenes/colouredballs.ma</extra>
+  <extra>maya 2012 x64</extra>
+  <extra>tom.oconnor</extra>
+  <Channels>
+    <channel0 ChannelName="pSphereShape27" ChannelType="FloatVectorArray" ChannelInterpretation="positions" SamplingType="Regular" SamplingRate="250" StartTime="250" EndTime="87500"/>
+    <channel1 ChannelName="pSphereShape26" ChannelType="FloatVectorArray" ChannelInterpretation="positions" SamplingType="Regular" SamplingRate="250" StartTime="250" EndTime="87500"/>
+    <channel2 ChannelName="pSphereShape25" ChannelType="FloatVectorArray" ChannelInterpretation="positions" SamplingType="Regular" SamplingRate="250" StartTime="250" EndTime="87500"/>
+    <channel3 ChannelName="pSphereShape24" ChannelType="FloatVectorArray" ChannelInterpretation="positions" SamplingType="Regular" SamplingRate="250" StartTime="250" EndTime="87500"/>
+    <channel4 ChannelName="pSphereShape23" ChannelType="FloatVectorArray" ChannelInterpretation="positions" SamplingType="Regular" SamplingRate="250" StartTime="250" EndTime="87500"/>
+    <channel5 ChannelName="pSphereShape22" ChannelType="FloatVectorArray" ChannelInterpretation="positions" SamplingType="Regular" SamplingRate="250" StartTime="250" EndTime="87500"/>
+    <channel6 ChannelName="pSphereShape21" ChannelType="FloatVectorArray" ChannelInterpretation="positions" SamplingType="Regular" SamplingRate="250" StartTime="250" EndTime="87500"/>
+    <channel7 ChannelName="pSphereShape20" ChannelType="FloatVectorArray" ChannelInterpretation="positions" SamplingType="Regular" SamplingRate="250" StartTime="250" EndTime="87500"/>
+    <channel8 ChannelName="pSphereShape19" ChannelType="FloatVectorArray" ChannelInterpretation="positions" SamplingType="Regular" SamplingRate="250" StartTime="250" EndTime="87500"/>
+    <channel9 ChannelName="pSphereShape18" ChannelType="FloatVectorArray" ChannelInterpretation="positions" SamplingType="Regular" SamplingRate="250" StartTime="250" EndTime="87500"/>
+    <channel10 ChannelName="pSphereShape17" ChannelType="FloatVectorArray" ChannelInterpretation="positions" SamplingType="Regular" SamplingRate="250" StartTime="250" EndTime="87500"/>
+    <channel11 ChannelName="pSphereShape16" ChannelType="FloatVectorArray" ChannelInterpretation="positions" SamplingType="Regular" SamplingRate="250" StartTime="250" EndTime="87500"/>
+    <channel12 ChannelName="pSphereShape15" ChannelType="FloatVectorArray" ChannelInterpretation="positions" SamplingType="Regular" SamplingRate="250" StartTime="250" EndTime="87500"/>
+    <channel13 ChannelName="pSphereShape14" ChannelType="FloatVectorArray" ChannelInterpretation="positions" SamplingType="Regular" SamplingRate="250" StartTime="250" EndTime="87500"/>
+    <channel14 ChannelName="pSphereShape13" ChannelType="FloatVectorArray" ChannelInterpretation="positions" SamplingType="Regular" SamplingRate="250" StartTime="250" EndTime="87500"/>
+    <channel15 ChannelName="pSphereShape12" ChannelType="FloatVectorArray" ChannelInterpretation="positions" SamplingType="Regular" SamplingRate="250" StartTime="250" EndTime="87500"/>
+    <channel16 ChannelName="pSphereShape11" ChannelType="FloatVectorArray" ChannelInterpretation="positions" SamplingType="Regular" SamplingRate="250" StartTime="250" EndTime="87500"/>
+    <channel17 ChannelName="pSphereShape10" ChannelType="FloatVectorArray" ChannelInterpretation="positions" SamplingType="Regular" SamplingRate="250" StartTime="250" EndTime="87500"/>
+    <channel18 ChannelName="pSphereShape9" ChannelType="FloatVectorArray" ChannelInterpretation="positions" SamplingType="Regular" SamplingRate="250" StartTime="250" EndTime="87500"/>
+    <channel19 ChannelName="pSphereShape8" ChannelType="FloatVectorArray" ChannelInterpretation="positions" SamplingType="Regular" SamplingRate="250" StartTime="250" EndTime="87500"/>
+    <channel20 ChannelName="pSphereShape7" ChannelType="FloatVectorArray" ChannelInterpretation="positions" SamplingType="Regular" SamplingRate="250" StartTime="250" EndTime="87500"/>
+    <channel21 ChannelName="pSphereShape6" ChannelType="FloatVectorArray" ChannelInterpretation="positions" SamplingType="Regular" SamplingRate="250" StartTime="250" EndTime="87500"/>
+    <channel22 ChannelName="pSphereShape5" ChannelType="FloatVectorArray" ChannelInterpretation="positions" SamplingType="Regular" SamplingRate="250" StartTime="250" EndTime="87500"/>
+    <channel23 ChannelName="pSphereShape4" ChannelType="FloatVectorArray" ChannelInterpretation="positions" SamplingType="Regular" SamplingRate="250" StartTime="250" EndTime="87500"/>
+    <channel24 ChannelName="pSphereShape3" ChannelType="FloatVectorArray" ChannelInterpretation="positions" SamplingType="Regular" SamplingRate="250" StartTime="250" EndTime="87500"/>
+    <channel25 ChannelName="pSphereShape2" ChannelType="FloatVectorArray" ChannelInterpretation="positions" SamplingType="Regular" SamplingRate="250" StartTime="250" EndTime="87500"/>
+    <channel26 ChannelName="pSphereShape1" ChannelType="FloatVectorArray" ChannelInterpretation="positions" SamplingType="Regular" SamplingRate="250" StartTime="250" EndTime="87500"/>
+  </Channels>
+</Autodesk_Cache_File>
